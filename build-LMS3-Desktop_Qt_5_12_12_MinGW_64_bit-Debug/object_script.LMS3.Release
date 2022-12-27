@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/returnbook.o
+release/searchbook.o
+release/viewbookss.o
+release/viewuser.o
+release/moc_addbookss.o
+release/moc_adduser.o
+release/moc_appmainpage.o
+release/moc_mainwindow.o
+release/moc_returnbook.o
+release/moc_searchbook.o
+release/moc_viewbookss.o
+release/moc_viewuser.o

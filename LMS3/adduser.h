@@ -17,7 +17,7 @@ public:
     ~adduser();
 
 private slots:
-    void on_pushButton_adduser_clicked();
+//    void on_pushButton_adduser_clicked();
 
     void on_pushButton_addstudent_clicked();
 

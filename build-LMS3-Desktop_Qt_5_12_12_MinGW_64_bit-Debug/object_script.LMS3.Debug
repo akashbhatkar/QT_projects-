@@ -1,0 +1,14 @@
+debug/main.o
+debug/mainwindow.o
+debug/returnbook.o
+debug/searchbook.o
+debug/viewbookss.o
+debug/viewuser.o
+debug/moc_addbookss.o
+debug/moc_adduser.o
+debug/moc_appmainpage.o
+debug/moc_mainwindow.o
+debug/moc_returnbook.o
+debug/moc_searchbook.o
+debug/moc_viewbookss.o
+debug/moc_viewuser.o
